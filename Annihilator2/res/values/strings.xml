@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Annihilator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1name">NEXT</string>
+    <string name="text2">this is 2ns page</string>
+
+</resources>
